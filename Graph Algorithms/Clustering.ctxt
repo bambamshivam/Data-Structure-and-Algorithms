@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Clustering
+comment1.params=x\ y\ k
+comment1.target=double\ clustering(int[],\ int[],\ int)
+comment2.params=i
+comment2.target=int\ Find(int)
+comment3.params=i\ j
+comment3.target=void\ Union(int,\ int)
+comment4.params=a\ l\ r
+comment4.target=int[]\ partition3(Clustering.dist[],\ int,\ int)
+comment5.params=a\ l\ r
+comment5.target=void\ randomizedQuickSort(Clustering.dist[],\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

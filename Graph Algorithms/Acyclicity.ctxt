@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Acyclicity
+comment1.params=adj
+comment1.target=int\ acyclic(java.util.ArrayList[])
+comment2.params=adj\ x\ y\ a
+comment2.target=void\ reach(java.util.ArrayList[],\ int,\ int,\ int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

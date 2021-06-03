@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergingTables
+comment1.params=reader\ writer
+comment1.target=MergingTables(MergingTables.InputReader,\ MergingTables.OutputWriter)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=destination\ source
+comment3.target=void\ merge(MergingTables.Table,\ MergingTables.Table)
+comment4.params=t
+comment4.target=MergingTables.Table\ Find(MergingTables.Table)
+comment5.params=
+comment5.target=void\ run()
+numComments=6

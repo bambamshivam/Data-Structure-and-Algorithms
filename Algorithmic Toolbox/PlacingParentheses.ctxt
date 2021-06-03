@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PlacingParentheses
+comment1.params=a\ b\ op
+comment1.target=long\ eval(long,\ long,\ char)
+comment2.params=i\ j\ ma\ mi\ exp
+comment2.target=long[]\ mm(int,\ int,\ long[][],\ long[][],\ java.lang.String)
+comment3.params=exp\ ma\ mi
+comment3.target=long\ getMaximValue(java.lang.String,\ long[][],\ long[][])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inversions
+comment1.params=a\ b\ z
+comment1.target=int[]\ merge(int[],\ int[],\ int)
+comment2.params=a\ n
+comment2.target=int[]\ gnoi(int[],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

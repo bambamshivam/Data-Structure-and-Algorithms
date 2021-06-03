@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Toposort
+comment1.params=adj
+comment1.target=java.util.ArrayList\ toposort(java.util.ArrayList[])
+comment2.params=adj\ used\ order
+comment2.target=void\ dfs(java.util.ArrayList[],\ int[],\ java.util.ArrayList)
+comment3.params=adj\ x\ a
+comment3.target=void\ reach(java.util.ArrayList[],\ int,\ int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

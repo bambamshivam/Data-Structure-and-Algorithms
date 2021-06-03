@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StronglyConnected
+comment1.params=adj
+comment1.target=int\ numberOfStronglyConnectedComponents(java.util.ArrayList[])
+comment2.params=adj1\ used
+comment2.target=void\ dfs(java.util.ArrayList[],\ int[])
+comment3.params=adj1\ x\ a
+comment3.target=void\ reach(java.util.ArrayList[],\ int,\ int[])
+comment4.params=adj\ x\ a
+comment4.target=void\ reach1(java.util.ArrayList[],\ int,\ int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

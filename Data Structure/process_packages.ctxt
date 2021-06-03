@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=process_packages
+comment1.params=scanner
+comment1.target=java.util.ArrayList\ ReadQueries(java.util.Scanner)
+comment2.params=requests\ buffer
+comment2.target=java.util.ArrayList\ ProcessRequests(java.util.ArrayList,\ Buffer)
+comment3.params=responses
+comment3.target=void\ PrintResponses(java.util.ArrayList)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

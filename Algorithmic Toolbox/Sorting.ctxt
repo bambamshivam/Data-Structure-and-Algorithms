@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sorting
+comment1.params=a\ l\ r
+comment1.target=int[]\ partition3(int[],\ int,\ int)
+comment2.params=a\ l\ r
+comment2.target=void\ randomizedQuickSort(int[],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

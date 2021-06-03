@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Knapsack
+comment1.params=W\ w
+comment1.target=int\ optimalWeight(int,\ int[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConnectedComponents
+comment1.params=adj
+comment1.target=int\ numberOfComponents(java.util.ArrayList[])
+comment2.params=adj\ x
+comment2.target=void\ reach(java.util.ArrayList[],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

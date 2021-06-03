@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HashChains
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=int\ hashFunc(java.lang.String)
+comment3.params=
+comment3.target=HashChains.Query\ readQuery()
+comment4.params=wasFound
+comment4.target=void\ writeSearchResult(boolean)
+comment5.params=query
+comment5.target=void\ processQuery(HashChains.Query)
+comment6.params=
+comment6.target=void\ processQueries()
+numComments=7

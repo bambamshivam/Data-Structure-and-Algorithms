@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TreeOrders
+comment1.params=
+comment1.target=void\ read()
+comment2.params=
+comment2.target=void\ inOrder()
+comment3.params=
+comment3.target=void\ preOrder()
+comment4.params=
+comment4.target=void\ postOrder()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

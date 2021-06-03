@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FractionalKnapsack
+comment1.params=capacity\ values\ weights
+comment1.target=double\ getOptimalValue(int,\ int[],\ int[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

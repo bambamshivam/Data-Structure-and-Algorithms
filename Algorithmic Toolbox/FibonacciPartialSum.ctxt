@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FibonacciPartialSum
+comment1.params=n
+comment1.target=long\ getFibonacciSum(long)
+comment2.params=m\ n
+comment2.target=long\ getFibonacciPartialSum(long,\ long)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

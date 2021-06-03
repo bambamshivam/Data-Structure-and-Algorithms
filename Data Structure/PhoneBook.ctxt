@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PhoneBook
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=PhoneBook.Query\ readQuery()
+comment3.params=response
+comment3.target=void\ writeResponse(java.lang.String)
+comment4.params=query
+comment4.target=void\ processQuery(PhoneBook.Query)
+comment5.params=
+comment5.target=void\ processQueries()
+numComments=6

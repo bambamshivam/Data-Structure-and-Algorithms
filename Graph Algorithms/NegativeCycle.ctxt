@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NegativeCycle
+comment1.params=adj\ cost
+comment1.target=int\ negativeCycle(java.util.ArrayList[],\ java.util.ArrayList[])
+comment2.params=t\ adj\ cost
+comment2.target=void\ check(int,\ java.util.ArrayList[],\ java.util.ArrayList[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
